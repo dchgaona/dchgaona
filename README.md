@@ -1,7 +1,14 @@
-# Bem-vindo!
-## I'm *Diego* (Cielo)!
-I'm a high school student, currently studying a technical bachelor's degree in software development at Preparatoria N. 17 in Jalisco, Mèxico 💻 and I intend to study on my own in addition to my degree, and with that I will need a portfolio, and that's why I'm here! ✨
+# Hi, I'm Diego! 👋🏾
 
-### currently working in:
-* Doing CS50 courses!
-* my school tasks!
+I'm a trainee developer from Mexico 🇲🇽, currently studying a technical high school program with plans to pursue a Software Engineering degree. I'm most passionate about backend development!
+
+## 🚀 About Me
+
+- 🔢 Fond of mathematics and complex systems
+- 🌱 Always learning something new in the world of software development
+- 🇲🇽 Based in Mexico
+- 💡 Interested in: database design, data science, APIs, server architecture
+
+## 🔧 Technologies & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
